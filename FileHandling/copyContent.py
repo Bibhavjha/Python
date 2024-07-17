@@ -1,0 +1,6 @@
+f=open("abc.txt",'r')
+t=f.read()
+f.close()
+g=open('m.txt','w')
+g.write(t)
+g.close()
