@@ -1,0 +1,1 @@
+# f=open("d:\\bim5\\abc.txt",'w')
